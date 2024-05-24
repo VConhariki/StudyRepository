@@ -1,6 +1,6 @@
 # StudyRepository
 
-Created focusing on testnig different technology for dotnet
+Created with a focus on testing different technologies for .NET
 
 # Roadmap for reference
 https://roadmap.sh/aspnet-core
